@@ -1,6 +1,8 @@
 To-Do List Application
 A simple and interactive To-Do List web application built with HTML, CSS, and JavaScript. This application allows users to manage their daily tasks, mark them as complete, delete completed items, and even restore previously deleted tasks. It also features a dark mode toggle for comfortable viewing.
 
+Deployment Link: https://todolist-js-sandy.vercel.app/
+
 Features
 Add New Tasks: Easily add new items to your to-do list using the input field.
 
@@ -68,4 +70,5 @@ Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
 
 License
+
 This project is open-source and available under the MIT License.
